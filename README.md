@@ -32,6 +32,7 @@ Our project introduces a solution to revolutionize healthcare accessibility and 
 ![Screenshot 2024-06-15 171406](https://github.com/Priyanka04suri/FRT-Final-Project/assets/143806144/596ef65f-093d-4574-8756-5f490d3680a7)
 ![Screenshot 2024-06-15 171427](https://github.com/Priyanka04suri/FRT-Final-Project/assets/143806144/58816c81-159d-47a7-b6ca-3c54b04d1f49)
 ![Screenshot 2024-06-15 171450](https://github.com/Priyanka04suri/FRT-Final-Project/assets/143806144/2d2212b5-e123-48f6-bd4e-2ea5cdd13ba0)
+![Screenshot 2024-06-15 173317](https://github.com/Priyanka04suri/FRT-Final-Project/assets/143806144/7d588613-4764-4d25-b18d-7d970931c13c)
 
 
 # Steps followed while Deploying:
